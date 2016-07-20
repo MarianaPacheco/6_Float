@@ -1,0 +1,25 @@
+.papa{
+	display: block;
+	background-color: blue;
+	border: blue 2px solid;
+}
+
+.chico{
+	width: 400px;
+	height: 100px;
+	background-color: red;
+	margin: 10px 0px 0px 10px;
+}
+
+.inline{
+	display: inline-block;
+}
+
+.floating{
+	float:left;
+}
+.clearfix {
+	overflow:auto;
+	zoom:1;
+}
+
